@@ -66,10 +66,10 @@
 - 3.4.2 [비음수 행렬 분해(NMF)](https://nbviewer.jupyter.org/github/glenn89/data_science_2018/blob/master/Chapter03/3.4.2.ipynb) 
 - 3.4.3 [t-SNE를 이용한 매니폴드 학습](https://nbviewer.jupyter.org/github/glenn89/data_science_2018/blob/master/Chapter03/3.4.3.ipynb) (by 4/17)
 #### 3.5 군집 
-- 3.5.1 [k-평균 군집](https://nbviewer.jupyter.org/github/bluebibi/data_science_2018/blob/master/Chapter03/3.5.1.ipynb) 
-- 3.5.2 [병합 군집](https://nbviewer.jupyter.org/github/bluebibi/data_science_2018/blob/master/Chapter03/3.5.2.ipynb) 
-- 3.5.3 [DBSCAN](https://nbviewer.jupyter.org/github/bluebibi/data_science_2018/blob/master/Chapter03/3.5.3.ipynb) 
-- 3.5.4 [군집 알고리즘의 비교와 평가](https://nbviewer.jupyter.org/github/bluebibi/data_science_2018/blob/master/Chapter03/3.5.4.ipynb) 
+- 3.5.1 [k-평균 군집](https://nbviewer.jupyter.org/github/glenn89/data_science_2018/blob/master/Chapter03/3.5.1.ipynb) 
+- 3.5.2 [병합 군집](https://nbviewer.jupyter.org/github/glenn89/data_science_2018/blob/master/Chapter03/3.5.2.ipynb) 
+- 3.5.3 [DBSCAN](https://nbviewer.jupyter.org/github/glenn89/data_science_2018/blob/master/Chapter03/3.5.3.ipynb) 
+- 3.5.4 [군집 알고리즘의 비교와 평가](https://nbviewer.jupyter.org/github/glenn89/data_science_2018/blob/master/Chapter03/3.5.4.ipynb) 
 - 3.5.5 군집 알고리즘 요약 
 #### 3.6 요약 및 정리 (by 4/24)
 
